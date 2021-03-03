@@ -1,0 +1,8 @@
+1. data/:
+plant_data:12 datas-many classes
+plant_data42:42 datas-2 classes
+plant_data_multi:42 datas-many classes
+plant_data_SPL:cotton
+shapenetcore_partanno_segmentation_benchmark_v0_normal:part_seg original
+2.log_xx training weight.
+

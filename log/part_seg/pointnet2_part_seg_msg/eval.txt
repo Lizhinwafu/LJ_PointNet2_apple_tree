@@ -1,0 +1,70 @@
+2021-01-23 09:21:18,404 - Model - INFO - PARAMETER ...
+2021-01-23 09:21:18,404 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-23 09:21:18,404 - Model - INFO - The number of test data is: 10
+2021-01-23 09:21:28,237 - Model - INFO - eval mIoU of plant          0.702902
+2021-01-23 09:21:28,237 - Model - INFO - Accuracy is: 0.85487
+2021-01-23 09:21:28,237 - Model - INFO - Class avg accuracy is: 0.83137
+2021-01-23 09:21:28,237 - Model - INFO - Class avg mIOU is: 0.70290
+2021-01-23 09:21:28,237 - Model - INFO - Inctance avg mIOU is: 0.70290
+2021-01-23 16:03:47,941 - Model - INFO - PARAMETER ...
+2021-01-23 16:03:47,941 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-23 16:03:47,941 - Model - INFO - The number of test data is: 10
+2021-01-23 16:03:57,888 - Model - INFO - eval mIoU of plant          0.700381
+2021-01-23 16:03:57,889 - Model - INFO - Accuracy is: 0.85052
+2021-01-23 16:03:57,889 - Model - INFO - Class avg accuracy is: 0.81991
+2021-01-23 16:03:57,889 - Model - INFO - Class avg mIOU is: 0.70038
+2021-01-23 16:03:57,889 - Model - INFO - Inctance avg mIOU is: 0.70038
+2021-01-23 22:44:38,544 - Model - INFO - PARAMETER ...
+2021-01-23 22:44:38,545 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-23 22:44:38,545 - Model - INFO - The number of test data is: 10
+2021-01-23 22:44:48,773 - Model - INFO - eval mIoU of plant          0.658056
+2021-01-23 22:44:48,773 - Model - INFO - Accuracy is: 0.82313
+2021-01-23 22:44:48,773 - Model - INFO - Class avg accuracy is: 0.80548
+2021-01-23 22:44:48,773 - Model - INFO - Class avg mIOU is: 0.65806
+2021-01-23 22:44:48,773 - Model - INFO - Inctance avg mIOU is: 0.65806
+2021-01-23 23:12:03,366 - Model - INFO - PARAMETER ...
+2021-01-23 23:12:03,366 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-23 23:12:03,366 - Model - INFO - The number of test data is: 12
+2021-01-23 23:12:14,902 - Model - INFO - eval mIoU of plant          0.689428
+2021-01-23 23:12:14,902 - Model - INFO - Accuracy is: 0.84052
+2021-01-23 23:12:14,902 - Model - INFO - Class avg accuracy is: 0.81493
+2021-01-23 23:12:14,902 - Model - INFO - Class avg mIOU is: 0.68943
+2021-01-23 23:12:14,902 - Model - INFO - Inctance avg mIOU is: 0.68943
+2021-01-24 14:48:33,588 - Model - INFO - PARAMETER ...
+2021-01-24 14:48:33,588 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-24 14:48:33,588 - Model - INFO - The number of test data is: 12
+2021-01-24 14:48:44,982 - Model - INFO - eval mIoU of plant          0.682536
+2021-01-24 14:48:44,982 - Model - INFO - Accuracy is: 0.83640
+2021-01-24 14:48:44,982 - Model - INFO - Class avg accuracy is: 0.81074
+2021-01-24 14:48:44,982 - Model - INFO - Class avg mIOU is: 0.68254
+2021-01-24 14:48:44,982 - Model - INFO - Inctance avg mIOU is: 0.68254
+2021-01-24 14:48:51,794 - Model - INFO - PARAMETER ...
+2021-01-24 14:48:51,794 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-01-24 14:48:51,794 - Model - INFO - The number of test data is: 12
+2021-01-24 14:49:03,127 - Model - INFO - eval mIoU of plant          0.691978
+2021-01-24 14:49:03,127 - Model - INFO - Accuracy is: 0.84357
+2021-01-24 14:49:03,128 - Model - INFO - Class avg accuracy is: 0.81699
+2021-01-24 14:49:03,128 - Model - INFO - Class avg mIOU is: 0.69198
+2021-01-24 14:49:03,128 - Model - INFO - Inctance avg mIOU is: 0.69198
+2021-03-04 00:21:19,695 - Model - INFO - PARAMETER ...
+2021-03-04 00:21:19,695 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-03-04 00:21:19,695 - Model - INFO - The number of test data is: 3
+2021-03-04 00:21:52,417 - Model - INFO - PARAMETER ...
+2021-03-04 00:21:52,417 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-03-04 00:21:52,417 - Model - INFO - The number of test data is: 3
+2021-03-04 00:22:18,609 - Model - INFO - PARAMETER ...
+2021-03-04 00:22:18,609 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-03-04 00:22:18,613 - Model - INFO - The number of test data is: 3
+2021-03-04 00:22:23,322 - Model - INFO - eval mIoU of plant          0.952902
+2021-03-04 00:22:23,322 - Model - INFO - Accuracy is: 0.98727
+2021-03-04 00:22:23,322 - Model - INFO - Class avg accuracy is: 0.98373
+2021-03-04 00:22:23,322 - Model - INFO - Class avg mIOU is: 0.95290
+2021-03-04 00:22:23,322 - Model - INFO - Inctance avg mIOU is: 0.95290
+2021-03-04 00:31:10,764 - Model - INFO - PARAMETER ...
+2021-03-04 00:31:10,764 - Model - INFO - Namespace(batch_size=1, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=10000, num_votes=3)
+2021-03-04 00:31:10,764 - Model - INFO - The number of test data is: 3
+2021-03-04 00:31:15,472 - Model - INFO - eval mIoU of plant          0.782692
+2021-03-04 00:31:15,473 - Model - INFO - Accuracy is: 0.89987
+2021-03-04 00:31:15,473 - Model - INFO - Class avg accuracy is: 0.89734
+2021-03-04 00:31:15,473 - Model - INFO - Class avg mIOU is: 0.78269
+2021-03-04 00:31:15,473 - Model - INFO - Inctance avg mIOU is: 0.78269

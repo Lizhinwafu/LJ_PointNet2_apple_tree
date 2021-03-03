@@ -5,8 +5,6 @@ Original repo is from (https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
 
 
 ## Part Segmentation
-### Data Preparation
-Download alignment **ShapeNet** [here](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip)  and save in `data/shapenetcore_partanno_segmentation_benchmark_v0_normal/`.
 ### Run
 ```
 ## Check model in ./models 
@@ -17,7 +15,7 @@ python train_partseg_plant.py --model pointnet2_part_seg_msg --batch_size 1 --ep
 
 python test_partseg_plant.py  --batch_size 1  --log_dir pointnet2_part_seg_msg
 ```
-### Performance
+### Performance(shapeNet)
 | Model | Inctance avg IoU| Class avg IoU 
 |--|--|--|
 |PointNet (Official)	|83.7|80.4	
